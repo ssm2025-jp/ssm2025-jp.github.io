@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>SSM2025 研究成果</title>
+<link>https://research.ssm2025.jp/discussion_papers.html</link>
+<atom:link href="https://research.ssm2025.jp/discussion_papers.xml" rel="self" type="application/rss+xml"/>
+<description>2025年社会階層と社会移動調査（SSM2025）研究会の研究成果ページ</description>
+<generator>quarto-1.5.47</generator>
+<lastBuildDate>Sat, 31 Oct 2026 06:09:50 GMT</lastBuildDate>
+</channel>
+</rss>
